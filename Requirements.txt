@@ -1,2 +1,0 @@
-Streamlit== 1.66.0
-Scikit-Learn==1.9.1
